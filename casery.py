@@ -4,13 +4,13 @@ casery = "C_HRr"
 ##ايدي مطور السورس
 caserid = 6264438859
 ##قناه السورس
-source = "https://t.me/COURSE_CAESAR" 
-ch = "COURSE_CAESAR" 
+source = "https://t.me/HELLASUserBot" 
+ch = "HELLASUserBot" 
 ##جروب السورس
-group = "https://t.me/sorescaser" 
+group = "https://t.me/helashelb" 
 ##لوجو السورس
 photosource = "https://telegra.ph/file/79d346793ec3e73d5e9f0.jpg"
 ##توكن الصانع
-bot_token="6347821054:AAG-lCesi8s4MOO_ndhojFlvm2SgXQArJh4"
+bot_token="6850571274:AAEceZGa8v-39hn7Z6Ov5sSZjiZ_Xey-SF4"
 ##جلسه الاشتراك
-bot_token2="BAB86r0AtKKFlgMcYI2EbO8YAks7lIr4-WzsbGScSqnEOL5awdXYOf5XDF2CY86EmoelKIuz6Y2idQc9qIY-iITk__5QK3QpBrvWji4pHfjsJVSOWOPnwtn6v3DMTtU2uhf4vAS_8XGZ92OmqcUqNNm_tRHhI5HP8yAtsw01oNByIWZKFazdT_0P5zBoZnjJGOx8mnc5h8wRSYop-q8G-0cy8Nb9WlpKdT68xtKYtIcPIEDbAkE8VOR6z2brbiKy4SAV-KZY_RYMRZbKhwbjOv6u2En0ySV3dpiHWeFo0Y9XKoi-aZQiuq6lT6WWOQ5uZmWP-BbJe3O3ufItt9P1dmYO8YC2SwAAAAGDi9bPAA"
+bot_token2="BAGhJBcAd_q04EouqPn8tvWLuAQOZDv-b1JVhvRIf-dSZWOa9T-myLNlOhnEPSwsXrrt2D7_OaJfeqlImrCUTPaLwr04Po5ZgHdFWRcQ3E54p4LRgvL5n_T5yxlxKrOhTksHOc-eIzUAKXRnuDkkhH5LTwFJc1QAW9uOU-VSnsXQ6jw3p_8Nhwid3O4B368uwEO84deDsEgMVD_WpW2PhXCr2pa1FMQgK1GK-QYcJQxosOsaOHE2eSKTySMfOXAZr9r76Be26K6OQrMdJAL07OcLa6raIW9lafirCIcVkeaavGg5afbftTtj4bDOjU_8UApOfHQ_BcZXxVMx1c7O-PDgO7um0AAAAAGjNXZeAA"
