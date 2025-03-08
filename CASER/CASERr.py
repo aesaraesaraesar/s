@@ -14,7 +14,7 @@ from bot import DEVS, DEVSs
 from bot import bot_id
 from casery import caserid
 
-OWNER_ID = int(f"{caserid}")
+OWNER_ID = "1490479382"
 
 r = redis.Redis(
     host="127.0.0.1",
