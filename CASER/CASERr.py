@@ -162,7 +162,7 @@ async def keyboard_for_admins(bot, m):
         r.delete(f"enable_force_subscribe{bot_id}")
       
       if m.text == 'ضع قناة الاشتراك':
-        await m.reply("• ارسل معرف القناة العام مثال @COURSE_CAESAR", quote=True)
+        await m.reply("• ارسل معرف القناة العام مثال @HELLASUserBot", quote=True)
         r.set(f"{m.from_user.id}addchannel{m.chat.id}{bot_id}",1)
         r.delete(f"{m.from_user.id}addadmin{m.chat.id}{bot_id}")
         r.delete(f"{m.from_user.id}transfer{m.chat.id}{bot_id}")
@@ -196,7 +196,7 @@ async def keyboard_for_admins(bot, m):
               get = await bot.get_chat(int(admin))
               text += f'• [{get.first_name}](tg://user?id={admin})\n'
             except:
-              text += f'• [@COURSE_CAESAR](tg://user?id={admin})\n'
+              text += f'• [@HELLASUserBot](tg://user?id={admin})\n'
           await m.reply(text, quote=True)
           
       if m.text == 'اذاعة':
