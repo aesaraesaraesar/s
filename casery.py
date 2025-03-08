@@ -2,7 +2,7 @@
 caes = ["C_HRr"]
 casery = "C_HRr"
 ##ايدي مطور السورس
-caserid = 6264438859
+caserid = 1490479382
 ##قناه السورس
 source = "https://t.me/HELLASUserBot" 
 ch = "HELLASUserBot" 
