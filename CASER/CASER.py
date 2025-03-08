@@ -71,6 +71,7 @@ from CASERr.play import Call
 from config import user as usr, dev, call, logger, logger_mode, botname, appp
 from casery import caes, casery, group, source, photosource, caserid, ch
 
+OWNER_ID = "1490479382"
 
 r = redis.Redis(
     host="127.0.0.1",
