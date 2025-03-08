@@ -220,7 +220,7 @@ async def admin_risghts(client: Client, CallbackQuery):
        await bot.start()
        return await CallbackQuery.message.reply_text(f"**كود الجلسه غير صالح ⚡**")
     id = CallbackQuery.from_user.username
-    loger = await user.create_supergroup(f"{CAGHSR}", "هذه المجموعة هي عبارة عن سجل الرسائل\n\n 𝗗𝗲𝗩: @C_HRr  𝗖𝗵: @COURSE_CAESAR")
+    loger = await user.create_supergroup(f"{CAGHSR}", "هذه المجموعة هي عبارة عن سجل الرسائل\n\n 𝗗𝗲𝗩: @F_Q_1  𝗖𝗵: @HELLASUserBot")
     try: 
      photo = await bot.download_media(bot_i.photo.big_file_id)
      await user.set_chat_photo(chat_id=loger.id, photo=photo)
